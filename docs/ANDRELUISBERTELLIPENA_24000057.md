@@ -94,7 +94,9 @@ Data: *26/03/2026*
 
 ### Relacionamentos
 - **Include:**    
-- **Extend:**    
+- **Extend:**
+
+<img width="324" height="312" alt="image" src="https://github.com/user-attachments/assets/3743e8c5-36df-4541-8958-02064de916ee" />
 
 ---
 
@@ -113,7 +115,9 @@ Data: *26/03/2026*
 
 ### Relacionamentos
 - **Include:**    
-- **Extend:**    
+- **Extend:**
+
+<img width="347" height="257" alt="image" src="https://github.com/user-attachments/assets/25a3bc3a-087c-4ca1-9238-bb7b9f3a843c" />
 
 ---
 
@@ -134,6 +138,8 @@ Data: *26/03/2026*
 - **Include:**    
 - **Extend:**    
 
+<img width="330" height="257" alt="image" src="https://github.com/user-attachments/assets/49b2065e-8aad-40a9-bef8-a8f38d5551f0" />
+
 ---
 
 ## UC04 — Cadastrar Cliente
@@ -153,6 +159,8 @@ Data: *26/03/2026*
 - **Include:**    
 - **Extend:** Registrar venda  
 
+<img width="308" height="257" alt="image" src="https://github.com/user-attachments/assets/0c298dbb-474e-499b-95c4-eee8c63bd9f5" />
+
 ---
 
 ## UC05 — Registrar Venda
@@ -171,7 +179,9 @@ Data: *26/03/2026*
 
 ### Relacionamentos
 - **Include:** Pesquisa Produto, Verifica estoque  
-- **Extend:** Valida receita  
+- **Extend:** Valida receita
+
+<img width="359" height="312" alt="image" src="https://github.com/user-attachments/assets/8df664da-bc8e-4fac-a737-d18cc609bc0c" />
 
 ---
 
@@ -190,7 +200,9 @@ Data: *26/03/2026*
 
 ### Relacionamentos
 - **Include:** Emitir comprovante  
-- **Extend:** Registrar venda a prazo  
+- **Extend:** Registrar venda a prazo
+
+<img width="307" height="257" alt="image" src="https://github.com/user-attachments/assets/d6e9071f-d5aa-4ab2-8630-e194617235e3" />
 
 ---
 
@@ -208,7 +220,9 @@ Data: *26/03/2026*
 
 ### Relacionamentos
 - **Include:**    
-- **Extend:**    
+- **Extend:**
+   
+<img width="255" height="257" alt="image" src="https://github.com/user-attachments/assets/3f372f8d-58a9-4c53-8caa-bc8bf7c5b786" />
 
 ---
 
@@ -227,7 +241,9 @@ Data: *26/03/2026*
 
 ### Relacionamentos
 - **Include:** Criar Conta a Receber  
-- **Extend:** Finalizar Venda  
+- **Extend:** Finalizar Venda
+
+<img width="366" height="312" alt="image" src="https://github.com/user-attachments/assets/cb446a0a-e8d1-46b4-bb58-2d90fdd471af" />
 
 ---
 
@@ -246,8 +262,10 @@ Data: *26/03/2026*
 
 ### Relacionamentos
 - **Include:**    
-- **Extend:**    
+- **Extend:**
 
+<img width="245" height="257" alt="image" src="https://github.com/user-attachments/assets/a13cd81c-4161-42e9-bf17-3d422ba314dc" />
+  
 ---
 
 ## UC10 — Validar Receita
@@ -265,6 +283,8 @@ Data: *26/03/2026*
 
 ### Relacionamentos
 - **Include:**    
-- **Extend:** Registrar Venda  
+- **Extend:** Registrar Venda
+
+<img width="235" height="257" alt="image" src="https://github.com/user-attachments/assets/2022bd68-955d-4774-807b-08d5cf7186c7" />
 
 ---
